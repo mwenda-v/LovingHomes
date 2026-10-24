@@ -12,6 +12,7 @@ Welcome to the Loving Homes Dog Hotel Repository. This project is a professional
 
 * HTML5
 * CSS3
+* javascript
 
 ## Installation
 
