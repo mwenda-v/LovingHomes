@@ -1,6 +1,6 @@
 # lovinghomes
 
-Welcome to the Loving Homes Dog Hotel Repository. This project is a professional pet boarding and care website built for a dog hotel based in Nairobi, Kenya.
+Welcome to the Loving Homes Dog Hotel Repository. This project is a professional pet boarding and care website built for a dog, cat hotel based in Nairobi, Kenya.
 
 ## Features
 
